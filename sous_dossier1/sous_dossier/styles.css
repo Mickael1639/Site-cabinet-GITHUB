@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Anton+SC&family=Germania+One&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+DE+VA+Guides&family=Yuji+Mai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Anton+SC&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+DE+VA+Guides&family=Yuji+Mai&display=swap');
+
+body{
+    background-color: #F6F7C4; /* Le fond de la page sera noir */
+    color: black; /* Le texte de la page sera blanc */
+}
+
+
+h1{
+  font-family: "Anton SC", sans-serif;
+  padding: 50px;
+  margin: 50px;
+  margin: auto;
+
+}
+
+img {
+  background: url('https___images.genius.com_586184be627d453b03da3daa850e3b6c.500x500x1.jpg') no-repeat;
+  display: block;
+  width: 30%;
+
+  margin: auto;
+}
+
+
+
+
+}
+
+.R{
+    color: blue ;
+}
+
+ .N{
+  color: hotpink;
+}
+
+ .W{
+    color : red;
+ }
+
+
+
+.S{
+  color: blueviolet;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
