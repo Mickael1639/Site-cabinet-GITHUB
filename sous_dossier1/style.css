@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Anton+SC&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+DE+VA+Guides&family=Yuji+Mai&display=swap');
+
+body{
+    background-color: #F6F7C4; /* Le fond de la page sera noir */
+    color: black; /* Le texte de la page sera blanc */
+}
+
+
+
+ .image
+{
+    
+    background: url('tyler-the-creator-dogtooth.png') no-repeat;
+     padding: 150px;
+    
+      background-position: top;
+      background-size: fixed ;
+}
+
+
+   
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+
+
+
+h1{
+  font-family: "Anton SC", sans-serif;
+  padding: 50px;
+  margin: 50px;
+  margin: auto;
+
+}
+ .R{
+    color: purple;
+
+ }
+
+
+h2{
+   font-family: "Playwrite DE VA Guides", cursive;
+ }
+  
+  .W{
+    color : red;
+ }
+
+ .N{
+  color: hotpink;
+
+
+}
+
+.S{
+  color: blueviolet;
+}
+
+/*
+.element {
+
+    font-size: 15px;
+    background-color: skyblue;
+    border-radius: 100% 0% 56% 44% / 54% 0% 100% 46% ;
+    padding: 20px;
+    box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5); */
+}
+}
+
+}
+a:hover {
+  opacity: 0.5;
+}
+.mon-element:hover {
+    background-color: #BEAEE2;
+    color: white;
+}
+
+h2:hover {
+    color: #CDF0EA;
+}
+
+a :hover {
+    color: #F9CEEE;
+}
+
+img:hover {
+  opacity: 1;
+}
+    
+
+.conteneur {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0px; /* Ajouté pour coller les images */
+   /* Ajustez la hauteur selon vos besoins */
+  margin-bottom: 10px;
+  
+
+}
+
+.element img {
+  max-width: 55%;
+  height: auto;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 50%;
+} 
+
+input {
+  padding: 10px;
+  border: 1px black; 
+}
+
+fieldset {
+    background-color: #ff5e4d;
+}
+
+legend {
+  background-color: white;
+}
+
+@media screen and (max-width: 1030px) {
+/* Insérez vos propriétés CSS ici, avec vos sélecteurs*/
+}
+
+/* Paragraphes en bleu par défaut */
+.J {
+    color: hotpink;
+}
+/* Nouvelles règles si la fenêtre fait au plus 1024px de large */
+
+.J {
+   width: 250px;
+   height: 110px;
+   text-align: justify;
+   border: 1px solid black;
+   overflow: auto;
+}
